@@ -1,0 +1,6 @@
+D:\Documents\Informatica\Programacion\C#\El cuento de la buena pipa\bin\Debug\El cuento de la buena pipa.exe.config
+D:\Documents\Informatica\Programacion\C#\El cuento de la buena pipa\bin\Debug\El cuento de la buena pipa.exe
+D:\Documents\Informatica\Programacion\C#\El cuento de la buena pipa\bin\Debug\El cuento de la buena pipa.pdb
+D:\Documents\Informatica\Programacion\C#\El cuento de la buena pipa\obj\Debug\El cuento de la buena pipa.csproj.CoreCompileInputs.cache
+D:\Documents\Informatica\Programacion\C#\El cuento de la buena pipa\obj\Debug\El cuento de la buena pipa.exe
+D:\Documents\Informatica\Programacion\C#\El cuento de la buena pipa\obj\Debug\El cuento de la buena pipa.pdb
